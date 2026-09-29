@@ -44,4 +44,4 @@ Lab2Web/
 10. **Perbedaan audio dan video:** `<audio>` khusus untuk memutar suara/musik tanpa visual, `<video>` memutar berkas visual bergerak berserta suaranya.
 
 ---
-*Praktikum disusun oleh: Agung Nugroho (Universitas Pelita Bangsa)*
+*Praktikum disusun oleh: Nur Muhammad Baha (Universitas Pelita Bangsa)*
