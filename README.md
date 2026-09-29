@@ -9,12 +9,13 @@ Repository ini berisi hasil pengerjaan Praktikum 2: HTML Lanjutan untuk mata kul
 4. [Tugas dan Jawaban Pertanyaan](#tugas-dan-jawaban-pertanyaan)
 
 ## Deskripsi Proyek
-Proyek mini berupa halaman **Biodata Mahasiswa** (`index.html`) yang menggabungkan seluruh materi HTML lanjutan. Halaman ini dirancang menggunakan Semantic HTML dan memuat tabel data, elemen multimedia (audio & video), serta form registrasi/update data dengan validasi dasar.
+Proyek mini berupa halaman **Biodata Mahasiswa** (`index.html` & `biodata.html`) yang menggabungkan seluruh materi HTML lanjutan. Halaman ini dirancang menggunakan Semantic HTML dan memuat tabel data, elemen multimedia (audio & video), serta form registrasi/update data dengan validasi dasar.
 
 ## Struktur Direktori
 ```text
 Lab2Web/
-├── index.html        (Halaman utama / Biodata Mahasiswa)
+├── index.html (Halaman utama) 
+├── Biodata.html (Biodata Mahasiswa)
 ├── media/            (Folder penyimpanan file multimedia)
 │   ├── audio.mp3     
 │   └── video.mp4     
@@ -44,4 +45,4 @@ Lab2Web/
 10. **Perbedaan audio dan video:** `<audio>` khusus untuk memutar suara/musik tanpa visual, `<video>` memutar berkas visual bergerak berserta suaranya.
 
 ---
-*Praktikum disusun oleh: Nur Muhammad Baha (Universitas Pelita Bangsa)*
+*Praktikum disusun oleh: Nur Muhammad Baha(Universitas Pelita Bangsa)*
